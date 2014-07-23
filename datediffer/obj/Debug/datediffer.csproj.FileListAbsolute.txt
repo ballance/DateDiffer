@@ -1,0 +1,6 @@
+C:\home\code\tools\datediffer\datediffer\bin\Debug\datediffer.exe.config
+C:\home\code\tools\datediffer\datediffer\bin\Debug\datediffer.exe
+C:\home\code\tools\datediffer\datediffer\bin\Debug\datediffer.pdb
+C:\home\code\tools\datediffer\datediffer\obj\Debug\datediffer.csprojResolveAssemblyReference.cache
+C:\home\code\tools\datediffer\datediffer\obj\Debug\datediffer.exe
+C:\home\code\tools\datediffer\datediffer\obj\Debug\datediffer.pdb
