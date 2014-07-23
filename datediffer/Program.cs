@@ -19,6 +19,7 @@ namespace datediffer
 
             Console.WriteLine("verification: {0}", dateDiffer.Verify(monthsUntil,daysUntil));
             Console.ReadKey();
+            // This should have a test project, yo.
         }
     }
 }
